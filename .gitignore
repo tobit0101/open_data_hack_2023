@@ -1,2 +1,7 @@
 /.env
 /.idea/
+/output/
+/input/
+poetry.lock
+
+!/**/.gitkeep
