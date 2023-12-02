@@ -5,5 +5,5 @@
 poetry.lock
 
 
-!/output/.gitkeep
-!/input/.gitkeep
+!input/.gitkeep
+!output/.gitkeep
