@@ -1,5 +1,3 @@
-!/**/.gitkeep
-
 /.env
 /.idea/
 /output/
@@ -7,3 +5,5 @@
 poetry.lock
 
 
+!/output/.gitkeep
+!/input/.gitkeep
